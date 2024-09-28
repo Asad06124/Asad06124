@@ -73,7 +73,8 @@
 
 
 <p align="center">
-<a href="https://stackexchange.com/users/1604668/asad-ullah?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/1604668.png?theme=dark" width="208" height="58" alt="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+
+[//]: # (<a href="https://stackexchange.com/users/1604668/asad-ullah?tab=accounts#gh-dark-mode-only"><img src="https://stackexchange.com/users/flair/1604668.png?theme=dark" width="208" height="58" alt="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>)
 <a href="https://stackexchange.com/users/1604668/asad-ullah?tab=accounts#gh-light-mode-only"><img src="https://stackexchange.com/users/flair/1604668.png?theme=light" width="208" height="58" alt="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Asad Ullah в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 <a href="https://stackoverflow.com/users/17998444/Asad06124#gh-dark-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=17998444&theme=dark&layout=compact"></a>
 <a href="https://stackoverflow.com/users/17998444/Asad06124#gh-light-mode-only"><img alt="stackoverflow badge" height="58" src="https://github-readme-stackoverflow.vercel.app/?userID=17998444&theme=light&layout=compact"></a>
