@@ -13,13 +13,13 @@
 <p align="center">
 
 <!-- OLD github-readme-stats
-<a href="https://github.com/asad06124?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Asad06124&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/asad06124?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Asad06124&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Asad's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/Asad06124?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Asad06124&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Asad06124?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Asad06124&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Asad06124?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asad06124&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
-<a href="https://github.com/Asad06124?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asad06124&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/Asad06124?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Asad06124&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Asad's github-readme-stats"/></a>
+<a href="https://github.com/Asad06124?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Asad06124&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Asad's github-readme-stats"/></a>
+<a href="https://github.com/Asad06124?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asad06124&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Asad's github-readme-streak-stats"/></a>
+<a href="https://github.com/Asad06124?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asad06124&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Asad's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -40,18 +40,18 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://github.com/Asad06124?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
-<a href="https://github.com/Asad06124?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a>
+<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Asad's wakatime stats"/></a>
+<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Asad's wakatime stats"/></a>
+<a href="https://github.com/Asad06124?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
+<a href="https://github.com/Asad06124?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github_dark&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asad06124&theme=github&utcOffset=4"  width="31%" alt="@Asad's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github_dark&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
 </p>
 
 
