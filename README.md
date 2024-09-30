@@ -1,11 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-<a href="https://docs.flutter.dev/"><img src="./assets/flutter.png" alt="Flutter" height="100" title="Android reference"></a>
+<a href="https://docs.flutter.dev/"><img src="./assets/flutter.png" alt="Flutter" height="100" title="Flutter reference"></a>
 <a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://fastapi.tiangolo.com/"><img src="./assets/fast.png" alt="Fast API" height="100" title="Java documentation"></a>
-<a href="https://developer.apple.com/documentation/swiftui/"><img src="./assets/swift.png" alt="Swift UI" height="100" title="Java documentation"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="./assets/fast.png" alt="Fast API" height="100" title="Fast API documentation"></a>
+<a href="https://developer.apple.com/documentation/swiftui/"><img src="./assets/swift.png" alt="Swift UI" height="100" title="Swift documentation"></a>
 <a href="mailto:asadbalqani@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://stackoverflow.com/users/17998444/asad-ullah"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="ru.stackoverflow profile"></a>
  
