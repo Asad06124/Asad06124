@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 <!--suppress HtmlDeprecatedAttribute -->
 
 
@@ -40,6 +41,9 @@
 
 
 <p align="center">
+ <a href="https://wakatime.com/@asadbalqani#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadbalqani&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Asad's wakatime stats"/></a>
+<a href="https://wakatime.com/@asadbalqani#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=asadbalqani&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Asad's wakatime stats"/></a>
+
 <a href="https://github.com/Asad06124?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 <a href="https://github.com/Asad06124?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 </p>
