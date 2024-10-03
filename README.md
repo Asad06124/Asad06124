@@ -40,8 +40,8 @@
 
 
 <p align="center">
- <a href="https://github.com/asad06124#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github_dark&utcOffset=4&size_weight=0.7&count_weight=0.3"  width="38%" alt="@Asad's wakatime stats"/></a>
- <a href="https://github.com/asad06124#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github&utcOffset=4&size_weight=0.7&count_weight=0.3"  width="38%" alt="@Asad's wakatime stats"/></a>
+ <a href="https://github.com/asad06124#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github_dark&utcOffset=4&size_weight=0.7&count_weight=0.3"  width="45%" alt="@Asad's wakatime stats"/></a>
+ <a href="https://github.com/asad06124#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=github&utcOffset=4&size_weight=0.7&count_weight=0.3"  width="45%" alt="@Asad's wakatime stats"/></a>
 <a href="https://github.com/Asad06124?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 <a href="https://github.com/Asad06124?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=Asad06124&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Asad's trophy stats"/></a>
 </p>
