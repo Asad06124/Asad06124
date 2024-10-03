@@ -53,7 +53,7 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github_dark&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAsad06124+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asad06124&theme=github&hide_border=true"  width="64%" alt="@Asad's profile-details"/></a>
 </p>
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asad06124&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/asad06124/github-readme-stats)
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
