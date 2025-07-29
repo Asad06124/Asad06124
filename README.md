@@ -83,5 +83,5 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/Asad06124"><img src="https://profile-counter.glitch.me/{Asad06124}/count.svg" alt="Asad06124 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/Asad06124"><img src="https://profile-counter.glitch.me/Asad06124/count.svg" alt="Asad06124 :: Visitor's Count" /></a>
 </p>
