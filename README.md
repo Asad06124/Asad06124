@@ -84,6 +84,6 @@
 
 <p align="center">
   <a href="https://gist.github.com/Asad06124">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Asad06124.gist&left_color=purple&right_color=cyan&left_text=Visitors" alt="Visitor Count" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgist.github.com%2FAsad06124&count_bg=%236A0DAD&title_bg=%2300B7EB&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true" alt="Visitor Count" height="50" />
   </a>
 </p>
