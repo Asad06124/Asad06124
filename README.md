@@ -84,6 +84,6 @@
 
 <p align="center">
   <a href="https://gist.github.com/Asad06124">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Asad06124.gist&left_color=purple&right_color=cyan&left_text=Visitors" alt="Visitor Count" height="40" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Asad06124.gist&left_color=purple&right_color=cyan&left_text=Visitors" alt="Visitor Count" height="140" />
   </a>
 </p>
